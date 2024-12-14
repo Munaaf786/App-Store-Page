@@ -1,0 +1,25 @@
+.tab-item {
+  list-style-type: none;
+  height: 40px;
+  width: 100%;
+}
+
+.tab-Item-btn {
+  height: 40px;
+  width: 88px;
+  text-align: center;
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  color: #7b8794;
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #dfe2e5;
+  outline: none;
+  cursor: pointer;
+}
+
+.selected-tab {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+  padding-bottom: 8px;
+}
