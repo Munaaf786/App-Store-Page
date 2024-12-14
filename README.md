@@ -1,4 +1,4 @@
-In this project, I built an **App Store** by applying the concepts I have learned till now.
+In this project, I have built an App Store by applying the concepts I have learned so far.
 
 ###  Output is as Below:
 
@@ -30,10 +30,10 @@ In this project, I built an **App Store** by applying the concepts I have learne
 ### Completion Instructions
 
 <details>
-<summary>Functionality to be added</summary>
+<summary>Functionality added</summary>
 <br/>
 
-The app have the following functionalities
+The app has the following functionalities
 
 - Initially, the **Social** tab is active and the apps with **Social** as their category are displayed
 - When a value is provided in the search input
